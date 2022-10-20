@@ -1,0 +1,18 @@
+.eua{
+    background-color:white;
+    width: 324px;
+    height: 180px;
+    margin: 20px auto;
+    position: relative;
+    border: solid 1px rgb(235, 232, 232);
+    top: 150px;
+
+}
+.eua>.requadrado{
+    width: 50%;
+    height: 56%;
+    position:absolute;
+    text-align: left;
+    background-color: rgb(9, 17, 128);
+
+}
